@@ -1,0 +1,6 @@
+{
+  "name": "Chess",
+  "description": "High-performance Chess game featuring tactical AI engine with alpha-beta search and explicit outcome declarations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
